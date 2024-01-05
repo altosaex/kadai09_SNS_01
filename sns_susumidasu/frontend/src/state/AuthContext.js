@@ -9,7 +9,7 @@ const initialState = {
 		username: "altosaex",
 		email: "sae.coach@gmail.com",
 		password: "Y6jxkVHT9",
-		profilePicture: "",
+		profilePicture: "/person/1.jpg",
 		coverPicture: "",
 		followers: [],
 		followings: [],
